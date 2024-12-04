@@ -6,5 +6,5 @@ job:
   runs-on: ubuntu-latest
   step:
   - name: Echo text
-    runs: echo "Hello, world!"
+    runs: echo "Hello, world"
     
